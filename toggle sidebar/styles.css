@@ -1,0 +1,15 @@
+
+.toggle-sidebar-button {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 10px;
+	height: 100%;
+	cursor: pointer;
+	z-index: 9999;
+}
+
+.toggle-sidebar-button.right {
+	left: auto;
+	right: 0;
+}

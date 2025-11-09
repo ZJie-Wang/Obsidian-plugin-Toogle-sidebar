@@ -1,0 +1,11 @@
+
+{
+	"id": "toggle-sidebar",
+	"name": "Toggle Sidebar",
+	"version": "1.0.0",
+	"minAppVersion": "0.12.0",
+	"description": "Toggle the sidebar by clicking the edge of the window.",
+	"author": "ZJie-Wang",
+	"authorUrl": "https://github.com/ZJie-Wang/Obsidian-plugin-Toogle-sidebar",
+	"isDesktopOnly": false
+}

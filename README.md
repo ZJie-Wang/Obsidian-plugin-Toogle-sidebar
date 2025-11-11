@@ -28,12 +28,6 @@ This plugin has been **tested only on macOS**. While it should work on other ope
 - Different window managers may handle edge clicking differently
 - If you encounter any issues on Windows or Linux, please report them or use the ribbon icons as a fallback
 
-## Installation
-
-1. Download this repository as a ZIP file
-2. Extract it to your Obsidian plugins folder
-3. Enable the plugin in Obsidian: Settings → Community Plugins → Toggle Sidebar
-
 ## Configuration
 
 No configuration is required! 
